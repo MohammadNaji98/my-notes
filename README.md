@@ -1,5 +1,8 @@
 # my-notes
 
+ ![image](Mohammad.jpg)
+
+ 
  Hello, I'm *Mohammad Naji AlKhresheh*
  I am 23 years old, from Al Karak. I graduated from Mutah University in  2021 with a major in software engineering.
  I count myself as a huge Microsoft fan, and I'm here to do what I do best. 
